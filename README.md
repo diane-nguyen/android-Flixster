@@ -29,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+This was my first time implementing YoutubePlayerView and using a .jar file. I did not find a libs folder already created in my Flixster project but it was a quick fix to create my own folder and name it libs. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -60,8 +60,7 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/cZXlYLUksa.gif" width=250><br>
 
 ### Notes
-The poster image was not displaying although I was able to display the movie title and overview. I finally realized I had a typo in the poster path that caused the images to 
-not display!
+The poster image was not displaying although I was able to display the movie title and overview. I finally realized I had a typo in the poster path that caused the images to not display!
 
 ### Open-source libraries used
 
